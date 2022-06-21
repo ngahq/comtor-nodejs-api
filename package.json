@@ -1,0 +1,9 @@
+{
+  "name": "example-api-with-nodejs",
+  "version": "1.0.0",
+  "description": "example api with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
